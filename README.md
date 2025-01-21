@@ -31,8 +31,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pickac4rd">
-        <img src="https://github.com/pickac4rd.png" alt="김승규" width="150" height="150"/>
+      <a href="https://github.com/sgkim6">
+        <img src="https://github.com/sgkim6.png" alt="김승규" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
@@ -58,7 +58,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pickac4rd">
+      <a href="https://github.com/sgkim6">
         <b>김승규</b>
       </a>
     </td>
